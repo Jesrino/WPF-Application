@@ -1,3 +1,6 @@
+print("WELCOME TO STUDINFO BY JES RIN")
+input()
+
 students = {} # Dictionary to store student information
 
 # Function to add a new student
